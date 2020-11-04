@@ -1,7 +1,5 @@
 bin
 data
 logs
-log
 .idea
 .vscode
-vendor
